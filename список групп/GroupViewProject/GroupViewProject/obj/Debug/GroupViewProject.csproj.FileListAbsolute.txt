@@ -1,0 +1,29 @@
+C:\Users\Evgeniya\Desktop\project\GroupViewProject\GroupViewProject\obj\Debug\GroupViewProject.csprojAssemblyReference.cache
+C:\Users\Evgeniya\Desktop\project\GroupViewProject\GroupViewProject\obj\Debug\MainWindow.g.cs
+C:\Users\Evgeniya\Desktop\project\GroupViewProject\GroupViewProject\obj\Debug\App.g.cs
+C:\Users\Evgeniya\Desktop\project\GroupViewProject\GroupViewProject\obj\Debug\GroupViewProject_MarkupCompile.cache
+C:\Users\Evgeniya\Desktop\project\GroupViewProject\GroupViewProject\obj\Debug\GroupViewProject_MarkupCompile.lref
+C:\Users\Evgeniya\Desktop\project\GroupViewProject\GroupViewProject\bin\Debug\GroupViewProject.exe.config
+C:\Users\Evgeniya\Desktop\project\GroupViewProject\GroupViewProject\bin\Debug\GroupViewProject.exe
+C:\Users\Evgeniya\Desktop\project\GroupViewProject\GroupViewProject\bin\Debug\GroupViewProject.pdb
+C:\Users\Evgeniya\Desktop\project\GroupViewProject\GroupViewProject\obj\Debug\MainWindow.baml
+C:\Users\Evgeniya\Desktop\project\GroupViewProject\GroupViewProject\obj\Debug\GroupViewProject.g.resources
+C:\Users\Evgeniya\Desktop\project\GroupViewProject\GroupViewProject\obj\Debug\GroupViewProject.Properties.Resources.resources
+C:\Users\Evgeniya\Desktop\project\GroupViewProject\GroupViewProject\obj\Debug\GroupViewProject.csproj.GenerateResource.cache
+C:\Users\Evgeniya\Desktop\project\GroupViewProject\GroupViewProject\obj\Debug\GroupViewProject.exe
+C:\Users\Evgeniya\Desktop\project\GroupViewProject\GroupViewProject\obj\Debug\GroupViewProject.pdb
+C:\Users\student\Desktop\401\Купин\project — копия\GroupViewProject\GroupViewProject\bin\Debug\GroupViewProject.exe.config
+C:\Users\student\Desktop\401\Купин\project — копия\GroupViewProject\GroupViewProject\bin\Debug\GroupViewProject.exe
+C:\Users\student\Desktop\401\Купин\project — копия\GroupViewProject\GroupViewProject\bin\Debug\GroupViewProject.pdb
+C:\Users\student\Desktop\401\Купин\project — копия\GroupViewProject\GroupViewProject\obj\Debug\GroupViewProject.csprojAssemblyReference.cache
+C:\Users\student\Desktop\401\Купин\project — копия\GroupViewProject\GroupViewProject\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\401\Купин\project — копия\GroupViewProject\GroupViewProject\obj\Debug\App.g.cs
+C:\Users\student\Desktop\401\Купин\project — копия\GroupViewProject\GroupViewProject\obj\Debug\GroupViewProject_MarkupCompile.cache
+C:\Users\student\Desktop\401\Купин\project — копия\GroupViewProject\GroupViewProject\obj\Debug\GroupViewProject_MarkupCompile.lref
+C:\Users\student\Desktop\401\Купин\project — копия\GroupViewProject\GroupViewProject\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\401\Купин\project — копия\GroupViewProject\GroupViewProject\obj\Debug\GroupViewProject.g.resources
+C:\Users\student\Desktop\401\Купин\project — копия\GroupViewProject\GroupViewProject\obj\Debug\GroupViewProject.Properties.Resources.resources
+C:\Users\student\Desktop\401\Купин\project — копия\GroupViewProject\GroupViewProject\obj\Debug\GroupViewProject.csproj.GenerateResource.cache
+C:\Users\student\Desktop\401\Купин\project — копия\GroupViewProject\GroupViewProject\obj\Debug\GroupViewProject.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\401\Купин\project — копия\GroupViewProject\GroupViewProject\obj\Debug\GroupViewProject.exe
+C:\Users\student\Desktop\401\Купин\project — копия\GroupViewProject\GroupViewProject\obj\Debug\GroupViewProject.pdb
